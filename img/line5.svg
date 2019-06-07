@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="248" height="83" viewBox="0 0 248 83">
+    <linearGradient id="linear-gradient">
+        <stop offset="0%" stop-color="#4696dc"/>
+        <stop offset="50%" stop-color="#63b7de"/>
+        <stop offset="100%" stop-color="#82dae0"/>
+    </linearGradient>
+    <g>
+        <g>
+            <path fill="none" stroke="url(#linear-gradient)" stroke-dasharray="5 3" stroke-linecap="round" stroke-miterlimit="50" stroke-width="2" d="M1.21 81.829S75.64-22.505 249 5.829"/>
+        </g>
+    </g>
+</svg>
